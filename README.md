@@ -1,1 +1,1 @@
-# English-Corpus-Text-Visualization-using-word2Vec-Model
+# English Corpus Text Visualization using Word2Vec Model
