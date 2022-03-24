@@ -7,7 +7,7 @@ Machine Learning approach to English Corpus Text-visualization using Word2Vec Mo
 1. Sklearn: Used for data preprocessing, model selection, classification, Regression, clustering.
 2. Matplotlib: It's used for 2D or 3D plotting to show Histogram, Bar-Chart etc
 3. Gensim: Open Source Library used in Text Analysis, Word2Vec, Doc2Vec.
-4. Used Amar Bangla bengali font & sample texts are collected from Wikipedia.
+4. Used Melon Honey font & sample texts are collected from the Internet.
 
 ## Word2Vec
 
