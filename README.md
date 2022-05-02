@@ -1,6 +1,7 @@
 # English Corpus Text Visualization using Word2Vec Model
 
 Machine Learning approach to English Corpus Text-visualization using Word2Vec Model from Gensim Library in NLP.
+This project was done to test the accuracy of the Word2Vec Model on English Corpus.
 
 ## Library requirements:
 
@@ -20,9 +21,10 @@ Word2Vec model is used in word embedding. I have used here Gensim library & Matp
 3. Repeated the Process taking larger corpus.
 
 ## Tools: 
-1. Google Colab
-2. Word2Vec from Gensim
-3. Matplotlib | Plyplot
+1. Google Colab/Jupyter Notebook
+2. Language: Python
+3. Word2Vec from Gensim
+4. Matplotlib | Plyplot
 
 ### Mentor
 Prof. Sandipan Ganguly, HIT-K.
